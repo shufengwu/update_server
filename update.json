@@ -1,5 +1,6 @@
 {
 	"version": "2.0", 
+	"versionCode": "2",
     "url": "https://github.com/shufengwu/update_server/raw/master/app-debug.apk", 
     "description": "检测到最新版本，请及时更新！"
 }
